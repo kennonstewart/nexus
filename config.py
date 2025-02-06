@@ -16,3 +16,5 @@ COLUMN_MAPPINGS = {
     "Internet ccTLD":"internet",
     "Unnamed: 0": "source"
 }
+
+
