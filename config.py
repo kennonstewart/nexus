@@ -1,8 +1,11 @@
 # constants.py
 
 # FILE PATHS
-DATA_FILE_PATH = "/workspaces/nexus/data/world/csv/world_migration_time_1995.csv"
+DATA_FILE_PATH = "/workspaces/nexus/data/world/csv/world_migration_time_{YEAR}.csv"
 DICTIONARY_PATH = "/workspaces/nexus/data/world/csv/world_dictionary.csv"
+
+# TIME PERIODS
+YEARS = ["1990", "1995", "2000", "2005", "2010"]
 
 # column name mappings
 COLUMN_MAPPINGS = {
